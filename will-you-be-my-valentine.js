@@ -1,4 +1,4 @@
-let messages = ["Please?", "Give me a chance!", "Are you sure?", "Think again!", "You might regret this!", "One last chance!", "Pretty please?", "Don’t break my heart 💔"];
+let messages = ["PROSZE ZUZIK", "DAJ MI SZANSE PĄCZUSIU", "A STOPKAMI ZROBISZ?", "CHCE TEGO BO CHCE CIEBIE", "TY KURWA BECZKO SMALCU", "KOCIAKU NOO", "CIEMU MI TO ŁOBIŚ", "NIE ŁAM MI SERCA💔"];
 let noCount = 0;
 let noButton = document.getElementById("no");
 let yesButton = document.getElementById("yes");
